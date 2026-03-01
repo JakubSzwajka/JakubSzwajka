@@ -7,6 +7,8 @@
 
 
 ---
+🤖 [Ralph](https://github.com/JakubSzwajka/ralph) - my loop
+
 🤖 [Skills](https://github.com/JakubSzwajka/skills) - my collection of claude code skills
 
 🔌 [VS Code plugin for spec browser](https://github.com/JakubSzwajka/vs-code-spec-browser)
