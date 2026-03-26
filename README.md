@@ -5,6 +5,10 @@
 
 🔗 [https://x.com/Kuba_Szw](https://x.com/Kuba_Szw)
 
+---
+Made a bunch of extensions for [Pi](https://pi.dev/). Check in this order: 
+- [Pi-monitor](https://github.com/JakubSzwajka/pi-monitor)
+- [Pi-todo](https://github.com/JakubSzwajka/pi-todo)
 
 ---
 🤖 [Ralph](https://github.com/JakubSzwajka/ralph) - my loop
